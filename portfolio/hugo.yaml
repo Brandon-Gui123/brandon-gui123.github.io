@@ -562,49 +562,48 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
-    image: /images/hero.svg
+    title: "Brandon Gui"
+    subtitle: "Game Developer"
+    content: "Building games for fun and learning."
+    image: /images/brandon-image.jpg
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
-    button:
-      enable: true
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
+      roundImage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/Brandon-Gui123
+        - icon: fa-brands fa-linkedin
+          url: https://www.linkedin.com/in/gui-brandon/
+        - icon: fa-brands fa-itch-io
+          url: https://brandon-gui123.itch.io/
 
   # About
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      Hi! I am a game developer who believes every bug might be a misunderstood feature. Some bugs make the cut and for the ones that don't,
+      I fire up my debugging tools to hunt them down.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      During my free time, I work on my own personal projects. Some of which I try to re-create a game (or perhaps a certain gimmick of it) and
+      others, I tinker around with new technologies just for fun and to try and understand things. A lot of these projects are internal and cannot be
+      distributed but I am happy to share more about those privately. Still, I am working on those projects so that they can be made open-source without
+      any repercussions.
+
+      Currently, I am a year 3 student studying at DigiPen Institute of Technology Singapore in the Interactive Media and Game Development course to
+      hone and refine my game development skills, especially level designing and working with C and C++.
+
+      I am currently looking for internships from May 2026 to April 2027 so I greatly appreciate if you have opportunities to share.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "C++"
+        - "Jetpack Compose"
+        - "Babylon.js"
+        - "Python"
+        - "Kotlin"
 
   # Experience
   experience:
