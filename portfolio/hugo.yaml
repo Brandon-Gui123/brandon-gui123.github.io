@@ -335,7 +335,7 @@ params:
 
       - title: Steamboat Willie
         image: /images/projects/steamboat-willie.png
-        content: 2D rougelike shooter inspired by the game _[Ship of Fools](https://store.steampowered.com/app/1286580/Ship_of_Fools/)_ and Disney's _[Steamboat Willie](https://en.wikipedia.org/wiki/Steamboat_Willie)_.
+        content: 2D roguelike shooter inspired by the game _[Ship of Fools](https://store.steampowered.com/app/1286580/Ship_of_Fools/)_ and Disney's _[Steamboat Willie](https://en.wikipedia.org/wiki/Steamboat_Willie)_.
         badges:
           - C++
 
