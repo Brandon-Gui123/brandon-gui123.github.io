@@ -181,7 +181,7 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: Work
     items:
       - company: "Aegis Technologies Pte. Ltd."
         companyUrl: "https://aegis-technologies.com.sg/"
