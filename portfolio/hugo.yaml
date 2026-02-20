@@ -150,6 +150,8 @@ params:
           url: https://www.linkedin.com/in/gui-brandon/
         - icon: fa-brands fa-itch-io
           url: https://brandon-gui123.itch.io/
+        - icon: fa-solid fa-envelope
+          url: mailto:brandongui@ymail.com
 
   # About
   about:
