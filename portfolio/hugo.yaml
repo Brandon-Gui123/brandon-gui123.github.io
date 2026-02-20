@@ -366,6 +366,9 @@ params:
         content: For level design assignment. Let the level guide you and tell you the story.
         badges:
           - Unreal
+        featured:
+          name: Get it from itch.io
+          link: https://brandon-gui123.itch.io/abandoned-prison-investigation
 
       - title: The Circular Conqueror
         image: /images/projects/the-circular-conqueror.png
