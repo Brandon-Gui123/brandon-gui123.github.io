@@ -281,7 +281,7 @@ params:
           - "VRTK"
 
       - title: Nebula
-        content: Top-down, sci-fi game in a dystopian world. Can you defeat the legendary Pheonix and stop it from consuming the world?
+        content: Top-down, sci-fi game in a dystopian world. Can you defeat the legendary Phinix and stop it from consuming the world?
         image: /images/projects/nebula.png
         badges:
           - "Unity"
