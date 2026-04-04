@@ -158,18 +158,11 @@ params:
     enable: true
     title: "About Me"
     content: |-
-      Hi! I am a game developer who believes every bug might be a misunderstood feature. Some bugs make the cut and for the ones that don't,
-      I fire up my debugging tools to hunt them down.
+      Hi! I am a game developer who enjoys building games and experimenting with new stuff.
 
-      During my free time, I work on my own personal projects. Some of which I try to re-create a game (or perhaps a certain gimmick of it) and
-      others, I tinker around with new technologies just for fun and to try and understand things. Some of these projects are internal and cannot be
-      distributed but I am happy to share more about those in private. Still, I am working on those projects so that they can be made open-source without
-      any repercussions.
+      I work on my own personal projects during my free time. Some of which, I re-create a certain feature or gimmick in a game.
 
-      Currently, I am a year 3 student studying at DigiPen Institute of Technology Singapore in the Interactive Media and Game Development course to
-      hone and refine my game development skills, especially level designing and working with C and C++.
-
-      I am currently looking for internships from May 2026 to April 2027 so I greatly appreciate if you have opportunities to share.
+      I am currently a Year 3 computer science student looking for internships ranging from May 2026 to April 2027.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
