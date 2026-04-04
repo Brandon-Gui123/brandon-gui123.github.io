@@ -164,7 +164,7 @@ params:
 
       I am currently a Year 3 computer science student looking for internships ranging from May 2026 to April 2027.
     skills:
-      enable: true
+      enable: false
       title: "Here are a few technologies I've been working with recently:"
       items:
         - "C++"
