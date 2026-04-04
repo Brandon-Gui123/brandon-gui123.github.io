@@ -232,7 +232,13 @@ params:
   # projects
   projects:
     enable: true
-    # title: "Custom Name"
+    description: |-
+      Here, you find projects that I've done in school, in work and during my personal time.
+
+      Several of these projects are for internal use, so I am unable to publicly share them, but I'd be happy to discuss in private.
+
+      This section is still a work in progress. I'll eventually link every project to a some kind of blog page so that I can share more information about it
+      and perhaps, list down some teachable moments so that others can learn from it.
     items:
       - title: VR-SOC
         image: /images/projects/vr-soc.png
