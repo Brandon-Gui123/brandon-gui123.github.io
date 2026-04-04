@@ -33,15 +33,3 @@ Hugo est livré avec plusieurs [Shortcodes Intégrés](https://gohugo.io/content
 <br>
 
 ---
-
-## Shortcode gist
-
-```
-{{</* gist spf13 7896402 */>}}
-```
-<br>
-{{< gist spf13 7896402 >}}
-<br>
-
----
-
