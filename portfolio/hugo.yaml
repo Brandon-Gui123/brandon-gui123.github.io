@@ -258,6 +258,13 @@ params:
           - "VR"
           - "VRTK"
 
+      - title: A Dung Beetle's Burden
+        image: /images/projects/a-dung-beetles-burden.jpg
+        content: |
+          Collect items, explore areas and defeat enemies impeding your journey to impress your mate!
+        badges:
+          - C++
+
       - title: The Sorter
         content: A VR game all about sorting.
         image: /images/projects/the-sorter.jpeg
