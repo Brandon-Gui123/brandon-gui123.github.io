@@ -158,11 +158,13 @@ params:
     enable: true
     title: "About Me"
     content: |-
-      Hi! I am a game developer who enjoys building games and experimenting with new stuff.
+      Hi! I am a game developer who enjoys building games and experimenting with new ideas.
 
-      I work on my own personal projects during my free time. Some of which, I re-create a certain feature or gimmick in a game.
+      I work on personal projects during my free time, often re-creating a
+      feature or gimmick from a game I like.
 
-      I am currently a Year 3 computer science student looking for internships ranging from May 2026 to April 2027.
+      I'm a final-year Computer Science student at SIT-DigiPen, currently on internship.
+      Outside of work, I build games and tinker with new tools.
     skills:
       enable: false
       title: "Here are a few technologies I've been working with recently:"
@@ -205,7 +207,7 @@ params:
           What I learnt
             - The C and C++ programming languages and their power.
             - Game design principles so I can build better games and also go back in time to criticize myself on my older game projects.
-            - Building game engines with other-like minded people so our games can run on it.
+            - Building game engines with like-minded people so our games can run on it.
             - Having some idea on how operating systems work.
 
           What I am currently learning
@@ -233,12 +235,11 @@ params:
   projects:
     enable: true
     description: |-
-      Here, you find projects that I've done in school, in work and during my personal time.
+      Here, you'll find projects I've built at school, at work and in my own time.
 
-      Several of these projects are for internal use, so I am unable to publicly share them, but I'd be happy to discuss in private.
+      Some are internal and can't be shared publicly, but I'm happy to talk through them in private.
 
-      This section is still a work in progress. I'll eventually link every project to a some kind of blog page so that I can share more information about it
-      and perhaps, list down some teachable moments so that others can learn from it.
+      I'm still adding write-ups for each project - what I built, what broke and what I'd do differently.
     items:
       - title: VR-SOC
         image: /images/projects/vr-soc.png
@@ -362,7 +363,7 @@ params:
       - title: Night March
         image: /images/projects/night-march.png
         content: |
-          Recruit, merge and position your allied _yokais_ in this 2D rougelike auto-battler inspired by _[Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/en-sg/)_ 
+          Recruit, merge and position your allied _yokais_ in this 2D roguelike auto-battler inspired by _[Teamfight Tactics](https://teamfighttactics.leagueoflegends.com/en-sg/)_ 
           and _[Despot's Game](https://www.despotsgame.com/)_!
         badges:
           - C++
